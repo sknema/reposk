@@ -2,4 +2,7 @@ Welcome to reposk...
 I know programming languages 
 C,C++, Python
 
+SQL
+DBMS
+
 Thank You
